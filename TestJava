@@ -1,6 +1,7 @@
 public class TestJava{
   public static void main(String[] args){
   
+    System.out.println("this is new content);
     system.out.println("this is test“)；
   }
 }
